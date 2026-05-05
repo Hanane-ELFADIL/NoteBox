@@ -109,26 +109,6 @@ php artisan test
 
 ---
 
-## 📁 Project Structure
 
-notebox/
-├── app/
-│   ├── Models/          # Eloquent models
-│   ├── Providers/       # Service providers
-│   └── View/            # View composers / components
-├── bootstrap/           # App bootstrap files
-├── config/              # Configuration files
-├── database/            # Migrations, seeders, factories
-├── public/              # Web root (index.php, assets)
-├── resources/           # Blade views, CSS, JS sources
-├── routes/              # Web & API routes
-├── storage/             # Logs, cache, uploads
-├── tests/               # Feature & unit tests
-└── vendor/              # Composer dependencies
-
-
-
-
----
 
 <p align="center">Made with ❤️ using Laravel</p>
