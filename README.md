@@ -7,7 +7,7 @@
 ##  Tech Stack
 
 - **Backend** — [Laravel](https://laravel.com/) (PHP)
-- **Frontend** — [Tailwind CSS](https://tailwindcss.com/) + [Vite](https://vitejs.dev/)
+- **Frontend** — [Tailwind CSS](https://tailwindcss.com/) +[Vite](https://vitejs.dev/)
 - **Database** — MySQL / SQLite (configurable via `.env`)
 - **Testing** — PHPUnit
 
